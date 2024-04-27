@@ -1,0 +1,5 @@
+The project is called: Verticalline.
+To use the application, you first need to lauch command prompt.
+1)- Access the application folder:...TMMC\verticalline\bin\debug\net7.0
+2)- Enter the command:vertcalline.exe [entire path to the image file] 
+    (Two image files a provided for testing purpose: test1.jpg, test2.jpg)

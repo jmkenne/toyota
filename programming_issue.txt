@@ -1,0 +1,4 @@
+In case the program don't recognise Bitmap, to correct it, it'll be necessary to add System.Drawing.Common. To add it:
+1)- launch command prompt
+2)- access the project folder
+3)- enter the command: dotnet add package System.Drawing.Common --version 8.0.4
